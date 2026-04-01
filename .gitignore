@@ -47,3 +47,6 @@ app.*.map.json
 # Environment variables (API keys, secrets)
 .env
 .env.local
+web/index.html
+android/app/src/main/AndroidManifest.xml
+ios/Runner/Info.plist
